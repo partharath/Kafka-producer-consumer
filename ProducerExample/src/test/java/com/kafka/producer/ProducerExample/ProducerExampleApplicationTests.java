@@ -11,7 +11,7 @@ public class ProducerExampleApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		System.out.println("Test context");
+		
 	}
 
 }
